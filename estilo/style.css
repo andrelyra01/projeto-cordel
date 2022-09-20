@@ -70,11 +70,7 @@ section.imagem> p{
     text-shadow: 1px 1px 0px;
     background-size: cover;
 }
-section#img01 {
-    background-image:url(../imagens/background001.jpg);
-    background-position: right center;
-   
-}
+
 
 section#imag02 {
     background-image: url(../estilo/background002.jpg);
