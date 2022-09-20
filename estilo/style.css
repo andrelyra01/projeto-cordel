@@ -44,10 +44,6 @@ section{
     font-family: var(--font3);
     font-size: 3.9vw;
 }
-.imagem > p{
-    font-size:40px;
-    padding: 1px;
-}
 
 section > p{
     padding-bottom: 2em;
