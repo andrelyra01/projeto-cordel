@@ -71,10 +71,12 @@ section.imagem> p{
     background-size: cover;
 }
 
-
-section#imag02 {
-    background-image: url(../estilo/background002.jpg);
+section#img01 {
+    background-image:url(../imagens/background001.jpg);
+    background-position: right center;
+   
 }
+
 footer{
     background-color: black;
     color: white;
